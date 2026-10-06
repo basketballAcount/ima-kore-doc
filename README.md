@@ -8,6 +8,10 @@
 | 利用規約 | [terms-of-service.md](./terms-of-service.md) |
 
 **運営者:** Keito Watanabe  
-**連絡先:** keito12280729@gmail.com
+**連絡先:** keito12280729@gmail.com  
+**最終更新:** 2026年10月6日
 
-App Store Connect 等で URL を設定する場合は、GitHub の raw URL または GitHub Pages の公開 URL をご利用ください。
+公開 URL（App Store Connect 用）:
+
+- プライバシーポリシー: https://basketballacount.github.io/ima-kore-doc/privacy-policy.html
+- 利用規約（カスタム EULA）: https://basketballacount.github.io/ima-kore-doc/terms-of-service.html
